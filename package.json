@@ -1,0 +1,35 @@
+{
+  "name": "@funbzcg/html-to-docx.",
+  "version": "0.10.1",
+  "description": "支持段落结构的html转docx",
+  "files": [
+    "dist"
+  ],
+  "main": "dist/index.cjs.js",
+  "module": "dist/index.js",
+  "scripts": {
+    "publish:patch": "standard-version && npm publish --access=public",
+    "publish:minor": "standard-version --release-as minor && npm publish --access=public",
+    "publish:major": "standard-version --release-as major && npm publish --access=public"
+  },
+  "devDependencies": {
+    "docx": "9.5.0",
+    "mathml2omml": "^0.5.0",
+    "temml": "^0.10.32"
+  },
+  "peerDependencies": {
+    "docx": "9.5.0",
+    "mathml2omml": "^0.5.0",
+    "temml": "^0.10.32"
+  },
+  "repository": " https://github.com/funbzcg/html-to-docx.git",
+  "homepage": "https://github.com/funbzcg/html-to-docx.?tab=readme-ov-file",
+  "author": "funbzcg@foxmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "standard-version": "^9.5.0",
+    "docx": "9.5.0",
+    "mathml2omml": "^0.5.0",
+    "temml": "^0.10.32"
+  }
+}
