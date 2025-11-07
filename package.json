@@ -5,8 +5,8 @@
 	"files": [
 		"dist"
 	],
-	"main": "dist/index.cjs.js",
-	"module": "dist/index.js",
+	"main": "dist/index.min.cjs",
+	"module": "dist/index.minors.js",
 	"publishConfig": {
 		"access": "public"
 	},
