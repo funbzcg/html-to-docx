@@ -1,6 +1,6 @@
 {
 	"name": "@funbzcg/translate-html-to-docx",
-	"version": "0.10.3",
+	"version": "0.10.4",
 	"description": "支持段落结构的html转docx",
 	"files": [
 		"dist"
