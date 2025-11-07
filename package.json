@@ -1,12 +1,12 @@
 {
 	"name": "@funbzcg/translate-html-to-docx",
-	"version": "0.10.4",
+	"version": "0.10.5",
 	"description": "支持段落结构的html转docx",
 	"files": [
 		"dist"
 	],
 	"main": "dist/index.min.cjs",
-	"module": "dist/index.minors.js",
+	"module": "dist/index.min.es.js",
 	"publishConfig": {
 		"access": "public"
 	},
