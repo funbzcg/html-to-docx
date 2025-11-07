@@ -18,6 +18,11 @@
 	"devDependencies": {
 		"standard-version": "^9.5.0"
 	},
+	"author": "funbzcg",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/funbzcg/translate-html-to-docx.git"
+	},
 	"peerDependencies": {},
 	"license": "MIT",
 	"dependencies": {}
