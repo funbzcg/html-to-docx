@@ -21,7 +21,7 @@
 	"author": "funbzcg",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/funbzcg/translate-html-to-docx.git"
+		"url": "git+https://github.com/funbzcg/translate-html-to-docx.git"
 	},
 	"peerDependencies": {},
 	"license": "MIT",
