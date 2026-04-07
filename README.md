@@ -64,4 +64,4 @@ const blob = await o.docxAsBlob();
 saveAs(blob, `文件名.docx`);
 ```
 
-测试工程为 [https://github.com/funbzcg/test-translate-html-to-docx](https://github.com/funbzcg/test-translate-html-to-docx)
+测试工程为 [https://funbzcg.github.io/html2docx/](https://funbzcg.github.io/html2docx/)
